@@ -1,4 +1,4 @@
 nyanmisaka/jellyfin
 linuxserver/jackett
 xhofe/alist
-xiaoya-alist
+xiaoyaliu/alist
