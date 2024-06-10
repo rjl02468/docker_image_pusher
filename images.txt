@@ -1,4 +1,4 @@
-nyanmisaka/jellyfin
-linuxserver/jackett
 xiaoyaliu/alist
 xhofe/alist
+nyanmisaka/jellyfin
+linuxserver/jackett
