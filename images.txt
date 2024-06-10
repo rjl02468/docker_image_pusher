@@ -5,4 +5,4 @@ kasmweb/nginx:1.25.3
 nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
-xhofe/alist
+
