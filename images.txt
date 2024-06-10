@@ -5,3 +5,4 @@ kasmweb/nginx:1.25.3
 nyanmisaka/jellyfin
 linuxserver/jackett
 xhofe/alist
+xiaoya-alist
