@@ -1,3 +1,4 @@
+alpine
 nyanmisaka/jellyfin
 linuxserver/jackett
 xhofe/alist
